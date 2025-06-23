@@ -1,0 +1,6 @@
+.root            { -fx-font-family:"Segoe UI"; }
+.menu-bar        { -fx-background-color:#974801; }
+.menu-bar .label { -fx-text-fill:black; -fx-font-weight:bold; }
+.button          { -fx-background-color:#b2792f; -fx-text-fill:black }
+.table-view      { -fx-background-color:white; }
+.table-view .column-header-background { -fx-background-color:#c4c4c4; }

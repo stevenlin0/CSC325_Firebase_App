@@ -1,0 +1,1 @@
+rootProject.name = "CSC325_Firebase_App"
