@@ -1,4 +1,4 @@
-Please donwload the zipped file and give the root in InTelliJIDEA IDE
+Please download the zipped file and give the root in InTelliJIDEA IDE
 Run App.main
 Sign in with existing user registered called test@gmail.com with password testing
 Click on Reload student and iot will pull the data
