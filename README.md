@@ -1,5 +1,4 @@
-Please download the zipped file and give the root in InTelliJIDEA IDE
 Run App.main
-Sign in with existing user registered called test@gmail.com with password testing
-Click on Reload student and iot will pull the data
+Sign in with existing user registered called "test@gmail.com" with password "testing"
 You can also register a new user
+Click on Reload student and it will pull the data
